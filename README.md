@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shemilkalayath
-- 👀 I’m interested in Political economy
+- 👀 I’m interested in Political economy, computations and markets
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shemilkalayath@gmail.com
