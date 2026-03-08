@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shemilkalayath
+- 👋 Hi, I’m @Mohamedshemil
 - 👀 I’m interested in Political economy, computations and markets
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on 
